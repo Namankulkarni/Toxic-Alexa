@@ -3,9 +3,6 @@
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
 
-ഈ ശേഖരത്തിലേക്ക് സംഭാവന ചെയ്യുമ്പോൾ, ആദ്യം നിങ്ങൾ പ്രശ്നം വഴി വരുത്താൻ ആഗ്രഹിക്കുന്ന മാറ്റം ചർച്ച ചെയ്യുക,
-ഒരു മാറ്റം വരുത്തുന്നതിന് മുമ്പ് ഈ ശേഖരത്തിന്റെ ഉടമകളുമായി ഇമെയിൽ അല്ലെങ്കിൽ മറ്റേതെങ്കിലും രീതി.
-
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 ## Pull Request Process
@@ -104,9 +101,9 @@ It is your responsibility to use these codes. We are not responsible for any bad
 
 ```json
 {
-  "user_github": "https://github.com/dogubk",
-  "user_workmail": "doguhanonder34@gmail.com",
-  "user_publicmail": "dohuhanz@gmail.com"
+  "user_github": "https://github.com/Namankulkarni",
+  "user_workmail": "naveensk731@gmail.com",
+  "user_publicmail": "navernsk731@gmail.com"
   },
   "user_permissions" {
     "allow": ["share, usage, support"],
