@@ -42,7 +42,7 @@ $ node toxic-alexa.js
       
 ```js
 SETUP
-$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
+$ git clone https://github.com/Namankulkarni/Toxic-Alexa
 $ cd Toxic-Alexa
 $ npm i
 $ node toxic-alexa.js
@@ -85,7 +85,7 @@ Click WA logo to Join public bot Group👇
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/toxic_turbo777)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://instagram.com/naman._.nk?utm_medium=copy_link)
 
 
 ### ⚠️ Warning! 
