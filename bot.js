@@ -36,9 +36,9 @@ fs.readdirSync('./plugins/sql/').forEach(plugin => {
 
 const plugindb = require('./plugins/sql/plugin');
 var base = `https://gist.github.com/`
-var PROP = { aredits: '916380260672,0' }
+var PROP = { aredits: '(639) 398-4722,0' }
 var unlink = `019112af334adceaefd1467dcbd93e58` 
-var PROP2 = { kl11: '916282344739,0' }
+var PROP2 = { kl11: '(639) 398-4722,0' }
 var string = base + `souravkl11`
         
 // Yalnızca bir kolaylık. https://stackoverflow.com/questions/4974238/javascript-equivalent-of-pythons-format-function //
@@ -179,7 +179,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Bot Started Made By Turbo*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Bot Started by Naman Nk *', MessageType.text);
                 }
             }
             else {
@@ -201,7 +201,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Bot Started Made By Turbo*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Bot Started Made By Naman NK *', MessageType.text);
                 }
 
             }
@@ -227,7 +227,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*Bot Started Made By Turbo*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*Bot Started Made By Naman NK*', MessageType.text);
                 }
             }
             else {
@@ -250,7 +250,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*Bot Started Made By Turbo*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*Bot Started Made By Naman Nk*', MessageType.text);
                 }
             }
         }
@@ -319,19 +319,19 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         var abc = config.BLOCKCHAT.split(',');                            
         if(msg.key.remoteJid.includes('-') ? abc.includes(msg.key.remoteJid.split('@')[0]) : abc.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT == '905524317852-1612300121') {     
+    if (config.SUPPORT == '(639) 398-4722) {     
         var sup = config.SUPPORT.split(',');                            
         if(msg.key.remoteJid.includes('-') ? sup.includes(msg.key.remoteJid.split('@')[0]) : sup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT2 == '917012074386-1631435717') {     
+    if (config.SUPPORT2 == '(639) 398-4722) {     
         var tsup = config.SUPPORT2.split(',');                            
         if(msg.key.remoteJid.includes('-') ? tsup.includes(msg.key.remoteJid.split('@')[0]) : tsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT3 == '905511384572-1621015274') {     
+    if (config.SUPPORT3 == '(639) 398-4722) {     
         var nsup = config.SUPPORT3.split(',');                            
         if(msg.key.remoteJid.includes('-') ? nsup.includes(msg.key.remoteJid.split('@')[0]) : nsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT4 == '905511384572-1625319286') {     
+    if (config.SUPPORT4 == '(639) 398-4722) {     
         var nsup = config.SUPPORT4.split(',');                            
         if(msg.key.remoteJid.includes('-') ? nsup.includes(msg.key.remoteJid.split('@')[0]) : nsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
@@ -399,7 +399,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ *Toxic-Alexa ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/c/TurboMods \n Report errors\njoin with +91 \n https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp``` ' 
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Follow instagram id  to get updates and to remove errors:* https://instagram.com/naman._.nk?utm_medium=copy_link
+https:\n Report errors\njoin with +91 \n https://wa.link/vmgs3t``` ' 
                                     , MessageType.text);
                             }
                         }
