@@ -99,8 +99,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Toxic-Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TOXICTURBO) | [![Toxic-Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/Namankulkarni) | 
-----|----|----
+  [![Toxic-Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/Namannkulkarni)(https://github.com/MD-JIFI.png?size=100)](https://github.com/Namankulkarni) | 
+
 
 Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules |Developer, Base, Bug Fixes, Modules
   </div>
