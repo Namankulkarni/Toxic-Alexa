@@ -1,14 +1,14 @@
 {
-  "name": "Toxic-Alexa",
+  "name": "Naman Nk bot ",
   "version": "2.0.0",
-  "description": "Toxic-Alexa whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "description": "Naman nk bot whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
   "main": "./Toxic-Alexa/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TURBOHYPER/Toxic-Alexa.git"
+    "url": "git+https://github.com/Namankulkarni/Toxic-Alexa.git"
   },
   "keywords": [
     "WhatsApp",
