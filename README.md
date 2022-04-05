@@ -3,13 +3,13 @@
         <img src="https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="Toxic-Alexa" src="https://img.shields.io/badge/Toxic-Alexa-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Naman Kulkarni" src="https://img.shields.io/badge/Toxic-Alexa-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/TOXICTURBO">Turbo-Jifi</a> to make it public
+Project created by <a href="https://github.com/Namankulkarni">Turbo-Jifi</a> to make it public
     <br>
        | © |
         Reserved |
@@ -66,14 +66,14 @@ $ node toxic-alexa.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.link/vmgs3t)
   <div align="center">
 
 
-Click WA logo to Join public bot Group👇
+Click WA logo to Join My Official bot Group👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.link/vmgs3t)
   <div align="center">
 
   </div>
@@ -99,10 +99,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Toxic-Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TOXICTURBO) | [![Toxic-Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/MD-JIFI) | [![Toxic-Shadow](https://github.com/SPARK-SHADOW.png?size=100)](https://github.com/SPARK-SHADOW) 
+  [![Toxic-Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TOXICTURBO) | [![Toxic-Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/Namankulkarni) | 
 ----|----|----
-[Toxic-Turbo](https://github.com/TOXICTURBO) | [Toxic-Jifi](https://github.com/MD-JIFI) | [Toxic-Shadow](https://github.com/SPARK-SHADOW) 
-Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules |  Developer, Base, Bug Fixes, Modules
+
+Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules |Developer, Base, Bug Fixes, Modules
   </div>
     
     
