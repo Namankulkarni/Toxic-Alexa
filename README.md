@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/TOXICTURBO">Turbo-Jifi</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
+$ git clone https://github.com/Namankulkarni/Toxic-Alexa
 $ cd Toxic-Alexa
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -51,7 +51,7 @@ $ node toxic-alexa.js
 ----
 
   <p align="center">
-  <a href="https://github.com/TOXICTURBO/Toxic-Alexa">
+  <a href="https://github.com/Namankulkarni/Toxic-Alexa">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
